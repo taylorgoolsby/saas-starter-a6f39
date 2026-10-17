@@ -30,4 +30,4 @@ GraphQL endpoint: `/api/graphql`
 
 Deploy button, once the repo is public on GitHub:
 
-    [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/YOUR_ORG/YOUR_REPO)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/taylorgoolsby/saas-starter)
